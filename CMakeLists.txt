@@ -21,6 +21,7 @@ set(public_headers
 	# include/uv-linux.h
 	# include/uv-sunos.h
 	# include/uv-unix.h
+	include/tree.h
 	include/uv-errno.h
 	include/uv.h)
 
