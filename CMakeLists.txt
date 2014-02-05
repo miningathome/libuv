@@ -18,10 +18,10 @@ set(sources
 set(public_headers
 	# include/uv-bsd.h
 	# include/uv-darwin.h
-	# include/uv-errno.h
 	# include/uv-linux.h
 	# include/uv-sunos.h
 	# include/uv-unix.h
+	include/uv-errno.h
 	include/uv.h)
 
 set(headers
